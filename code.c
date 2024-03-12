@@ -1,8 +1,18 @@
 #include<unistd.h>
 int main(void)
 {
-	printf("gagaga");
+	
+
+
+	
+	printf("aaa");
+	printf("bbb");
+
+
+
+
 	return 0;
 }
+
 
 
